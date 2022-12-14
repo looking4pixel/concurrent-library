@@ -1,4 +1,6 @@
 # Concurrent Library
+This is the beta branch of Concurrent Library. This is where you can test out new and upcoming features that may be added to the main branch. Remember, this branch is in beta, so expect bugs and glitches to occur. Nothing here is final!
+
 Welcome to the repository for the Concurrent Library. This library has a bunch of useful functions and utilities that makes life easier for Garry's Mod addon developers. As a beginner developer, I struggled with learning how to create certain stuff, such as parallax mapping, 3D2D vgui, server and client communication, and so on and so forth. I aim to eliminate all the struggles a Garry's Mod addon developer ever has with the invention of this library.
 
 The Concurrent Library is simple, fast, and flexible. With unlimited access to the library source code, you can contribute to the project in whichever way, shape, or form you deem fit. This library has features such as: easy parallax mapping, 3D2D vgui, custom networking, custom hook library, addon security, math functions, http modules, addon configuration, and so much more. This file would be so big if I actually listed out all of the features!
